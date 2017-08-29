@@ -1,0 +1,3 @@
+List all the kinds of Data you will interact with as a Pharmacist. Collaborate ideas with a classmate.
+
+Types of Pharmacy Data:
