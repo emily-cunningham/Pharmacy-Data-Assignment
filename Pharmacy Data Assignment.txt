@@ -7,3 +7,7 @@ Types of Pharmacy Data:
 4. Max daily dosing for narcotics
 5. Fee structures for drug copays
 6. Tracking paid and unpaid deductables for patients drug coverage
+7. Drug class interactions
+8. Patient dose history and change over time
+9. Drug recall data
+10. Maintaining organized drug inventory in the pharmacy
