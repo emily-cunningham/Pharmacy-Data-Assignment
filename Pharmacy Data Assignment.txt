@@ -4,3 +4,6 @@ Types of Pharmacy Data:
 1. Therapeutic indexes of drugs (LD50/ED50)
 2. Organizing data to correlate weight and appropriate dosing for children
 3. Safe and unsafe treatments for pregnant women
+4. Max daily dosing for narcotics
+5. Fee structures for drug copays
+6. Tracking paid and unpaid deductables for patients drug coverage
