@@ -11,3 +11,4 @@ Types of Pharmacy Data:
 8. Patient dose history and change over time
 9. Drug recall data
 10. Maintaining organized drug inventory in the pharmacy
+11. Drug prices
